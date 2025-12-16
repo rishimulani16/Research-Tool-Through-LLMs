@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Conda
+.conda/
+*.conda
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# Hugging Face cache
+.cache/
+.huggingface/
+
+# PyTorch
+*.pt
+*.bin
+
+
